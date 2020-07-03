@@ -1,0 +1,26 @@
+{
+  "name": "fis-less",
+  "version": "1.0.0",
+  "description": "A parser for fis to compile less file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "less": "^3.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellis-s/fis-less.git"
+  },
+  "keywords": [
+    "fis",
+    "less"
+  ],
+  "author": "ellis-s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ellis-s/fis-less/issues"
+  },
+  "homepage": "https://github.com/ellis-s/fis-less#readme"
+}
